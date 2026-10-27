@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="meditrack-banner.png" alt="MediTrack — Hospital Patient Management System | MySQL & SQL Analytics" width="100%" />
+</p>
+
 # MediTrack — Hospital Patient Management System
 
 A MySQL database project that models core hospital workflows, including patient records, doctors, appointments, prescriptions, and billing. It demonstrates relational database design and SQL querying for operational reporting and basic revenue analysis.
